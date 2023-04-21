@@ -4,7 +4,7 @@ public class remoteControl {
 
         smartTv smartTv = new smartTv();
 
-        System.out.println("Estatus inicial da TV:");
+        System.out.println("Status inicial da TV:");
 
         System.out.println(smartTv.tvOn ? "Tv on" : "Tv off");
 
